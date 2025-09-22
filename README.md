@@ -1,0 +1,1 @@
+This program reads a set of 25000 heights and determines the 1st, 2nd, and 3rd quartiles. It also provides the InterQuartile range. Lastly, it provides a box and whisker plot, with a count of all the outliers, a list of the outliers, and the maximum and minimum of the graph.
